@@ -1,0 +1,54 @@
+/* CSS for San Joaquin Valley Town Hall */
+
+/* Shadow effect for the 75th */
+.shadow {
+    text-shadow: 1.5px 1.5px #800000;
+}
+
+/* Italic font style on anchor hover, preceded by an image */
+img + a:hover {
+    font-style: italic;
+}
+
+/* Header styles */
+header {
+    display: flex;
+    align-items: center;
+}
+
+header img {
+    height: 80px;
+}
+
+hgroup {
+    margin-left: 20px;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Section styles */
+section {
+    margin-top: 20px;
+}
+
+/* Blockquote styles */
+blockquote {
+    margin: 20px 0;
+}
+
+/* Speaker styles */
+section h1 {
+    margin-top: 30px;
+}
+
+section h2 {
+    margin-top: 20px;
+}
+
+section h3 {
+    margin-top: 10px;
+}
