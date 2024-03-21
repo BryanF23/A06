@@ -1,6 +1,4 @@
-/* CSS for San Joaquin Valley Town Hall */
 
-/* Shadow effect for the 75th */
 .shadow {
     text-shadow: 1.5px 1.5px #800000;
 }
@@ -24,23 +22,23 @@ hgroup {
     margin-left: 20px;
 }
 
-/* Footer styles */
+
 footer {
     text-align: center;
     margin-top: 50px;
 }
 
-/* Section styles */
+
 section {
     margin-top: 20px;
 }
 
-/* Blockquote styles */
+
 blockquote {
     margin: 20px 0;
 }
 
-/* Speaker styles */
+
 section h1 {
     margin-top: 30px;
 }
